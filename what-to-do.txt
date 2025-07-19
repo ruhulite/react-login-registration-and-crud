@@ -1,0 +1,8 @@
+technology: react, vite, tailwind, json-server, axios
+
+commands:
+npm create vite@latest
+
+npm i react-router-dom axios json-server
+
+npm install tailwindcss @tailwindcss/vite

@@ -1,0 +1,117 @@
+{
+  "todos": [
+    {
+      "id": "1af7",
+      "value": "add todo"
+    },
+    {
+      "value": "my first todo updated",
+      "id": "90b8"
+    },
+    {
+      "value": "here is another todo",
+      "id": "e744"
+    },
+    {
+      "value": "now i'm adding todo updated",
+      "id": "421a"
+    },
+    {
+      "value": "then i'll design the todo list edit again",
+      "id": "133d"
+    },
+    {
+      "value": "adding item again",
+      "id": "5c5a"
+    },
+    {
+      "value": "newly added updated 2",
+      "id": "fa8f"
+    },
+    {
+      "id": "97be",
+      "value": "item added again"
+    }
+  ],
+  "users": [
+    {
+      "username": "KKK",
+      "email": "KKK@gmail.com",
+      "password": "12345",
+      "passwordConfirm": "12345",
+      "id": "3369"
+    },
+    {
+      "id": "ce77",
+      "username": "dasad",
+      "email": "sadsad",
+      "password": "sadsad",
+      "passwordConfirm": "asdsad"
+    },
+    {
+      "id": "fb5b",
+      "username": "Ruhul Amin Khan",
+      "email": "ruhul@gmail.com",
+      "password": "12345",
+      "passwordConfirm": "12345"
+    },
+    {
+      "id": "5b7e",
+      "userData": {
+        "username": "noyon",
+        "email": "noyon@gmail.com",
+        "password": "12345",
+        "confirmPassword": "12345"
+      }
+    },
+    {
+      "id": "4c5b",
+      "username": "emni",
+      "email": "emni@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345"
+    },
+    {
+      "id": "0078",
+      "username": "xcxzc",
+      "email": "xzcxzc",
+      "password": "xzcxzc",
+      "confirmPassword": "xzcxzc"
+    },
+    {
+      "id": "8cd1",
+      "username": "sdsadsad",
+      "email": "sadasd",
+      "password": "sadsad",
+      "confirmPassword": "sadsad"
+    },
+    {
+      "id": "ab07",
+      "username": "ffdgfdg",
+      "email": "fdgdfg",
+      "password": "dfgfdg",
+      "confirmPassword": "dfsgfdg"
+    },
+    {
+      "id": "8cde",
+      "username": "wrerwer",
+      "email": "ewrwerwerwer",
+      "password": "ewrewrwerwe",
+      "confirmPassword": "werewrewr"
+    },
+    {
+      "id": "5479",
+      "username": "Rayyan",
+      "email": "rayyan@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345"
+    },
+    {
+      "id": "3a25",
+      "username": "rafiya",
+      "email": "rafiya@gmail.com",
+      "password": "123",
+      "confirmPassword": "123"
+    }
+  ]
+}
